@@ -1,11 +1,1 @@
-## New Tab Chrome Example
-
-Read this article to build your own New-Tab Chrome Extension:
-
-[Building Your Own New Tab Chrome Extension](https://web-highlights.com/blog/building-your-own-new-tab-chrome-extension/).
-
-# Demo
-
-[Live Demo](https://mariusbongarts.github.io/new-tab-chrome-extension/)
-
-
+![image](https://user-images.githubusercontent.com/37083469/219880555-83b9c141-fcce-4520-ae88-fc2c5edc5c28.png)
