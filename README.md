@@ -8,7 +8,7 @@ Firefox (Mozilla Addons): https://quotes-8bm1.onrender.com/
 Chrome (Manual Installation): 
 Here is a short guide how to install an unpacked extension on Google Chrome or Chromium-based browsers (e.g. Opera, Vivaldi).
 Open the "Extensions" page (chrome://extensions/) in the browser and turn on the "Developer mode".
-Imgur
+![image](https://user-images.githubusercontent.com/37083469/220070535-29e53853-fb25-4bf9-b7a4-d89cdab12d5a.png)
 Click on the "Load unpacked" button and select the directory where the built extension is placed.
 
 
