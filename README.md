@@ -1,5 +1,7 @@
 Hello from Quotes!
+
 Android (Amazon Appstore): https://quotes-8bm1.onrender.com/
+
 Firefox (Mozilla Addons): https://quotes-8bm1.onrender.com/
 
 Chrome (Manual Installation): 
