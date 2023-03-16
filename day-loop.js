@@ -22,7 +22,8 @@ function Timev(value){
         let hrs = d.getHours();
         let sec = d.getSeconds();
         time = hrs;
-        time = (hrs+" : "+min);
+        let dispMin = min.toString().padStart(2, '0');
+        time = (hrs+" : "+dispMin);
         Timev(time);
         sec = sec / 60;
         min = min + sec;
